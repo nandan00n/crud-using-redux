@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": "TY112233",
+      "Name": "Nandan Kumar",
+      "Age": 25,
+      "Email": "nandan00n@test.com",
+      "Designation": "Developer",
+      "Salary": 205000
+    },
+    {
+      "id": "TY112733",
+      "Name": "Nandan Kumar",
+      "Age": 25,
+      "Email": "nandankumar00n@test.com",
+      "Designation": "Developer",
+      "Salary": 205000
+    },
+    {
+      "id": "TYC1021143",
+      "Name": "Prabhath Sahu",
+      "Age": "26",
+      "DOB": "22091990",
+      "Email": "Prabhathsahu@test.com",
+      "Designation": "associate software engineer",
+      "Salary": "24000"
+    }
+  ]
+}
